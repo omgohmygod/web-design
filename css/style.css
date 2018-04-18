@@ -1,0 +1,222 @@
+body {
+    background-color: black
+}
+
+body p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+body h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+body h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+body h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+body h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+}
+
+.main {
+    position: relative;
+    margin-left: 240px
+}
+.right {
+    float: right;
+    position: relative;
+    bottom: 60px;
+}
+
+.left {
+    position: relative;
+    bottom: 10px;
+    right: 240px;
+}
+
+.top-play img{
+    position: relative;
+    bottom: 350px;
+    left: 650px
+   
+}
+
+.top-play p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    position: relative;
+    bottom: 400px;
+    left: 450px
+}
+
+.teach p {
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    position: relative;
+    bottom: 450px;
+    left: 480px
+}
+
+
+.leftarticle img {
+    height: 41px;
+    width: 101px;
+}
+
+.leftarticle {
+    position: relative;
+    bottom: 300px;
+    left: 180px;
+}
+.head1 {
+    position: relative;
+    right: 20px;
+    font-size: 24px;
+}
+.one {
+    position: relative;
+    right: 100px;
+}
+.two {
+    position: relative;
+    right: 110px;
+}
+.leftarticle hr {
+    position: relative;
+    right: 550px;
+    bottom: 250px;
+    width: 0px;
+    height: 250px;
+}
+
+.midarticle img{
+    position: relative;
+    left: 680px;
+    bottom: 800px;
+    height: 40px;
+    width: 50px;
+}
+
+.head2 {
+    position: relative;
+    left: 600px;
+    bottom: 800px;
+    font-size: 24px;
+}
+
+.m1 {
+    position: relative;
+    left: 570px;
+    bottom: 800px;
+}
+
+.m2 {
+    position: relative;
+    left: 550px;
+    bottom: 800px;
+}
+.m3 {
+    position: relative;
+    left: 630px;
+    bottom: 800px;
+}
+
+.midarticle hr {
+    position: relative;
+    left: 130px;
+    bottom: 1050px;
+    width: 0px;
+    height: 250px;
+}
+
+.r1 {
+    position: relative;
+    left: 1170px;
+    bottom: 1280px;
+}
+
+.r2 {
+    font-size: 24px;
+    position: relative;
+    left: 1110px;
+    bottom: 1300px;
+}
+
+.r3 {
+    position: relative;
+    left: 1090px;
+    bottom: 1330px;
+}
+
+.rightarticle hr {
+    position: relative;
+    left: 400px;
+    bottom:  1330px;
+    width: 280px;
+}
+
+.r4 {
+    position: relative;
+    left: 1090px;
+    bottom: 1330px;
+}
+
+.r5 {
+    position: relative;
+    left: 1280px;
+    bottom: 1365px;
+}
+
+.section3 {
+    position: relative;
+    bottom: 1100px;
+}
+
+.section4 {
+    position: relative;
+    bottom: 900px;
+}
+
+.plan {
+    font-size: 24px;
+    position: relative;
+    left: 620px;
+    bottom: 800px;
+}
+
+.section5 img{
+    position: relative;
+    left: 230px;
+    bottom: 750px;
+}
+
+.section6 img {
+    background-color: black;
+    position: relative;
+    left: 100px;
+    bottom: 500px;
+}
+
+.f1 {
+    color: white;
+    position: relative;
+    left: 580px;
+    bottom: 450px;
+}
+
+nav img{
+    position: relative;
+    margin-right: 50px;
+    bottom: 450px;
+    left: 450px;
+}
